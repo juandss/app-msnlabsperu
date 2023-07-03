@@ -1,2 +1,4 @@
-# appmsnlabs
-Expense Statement
+flask-login-example
+===================
+
+Flask-Login extension example
